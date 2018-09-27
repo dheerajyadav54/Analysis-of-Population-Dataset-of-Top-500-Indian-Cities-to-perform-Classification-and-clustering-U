@@ -1,2 +1,1 @@
-# Analysis-of-Population-Dataset-of-Top-500-Indian-Cities-to-perform-Classification-and-clustering-U
-The aim of this project is to group and also classify data based on some aspects and to visualize the result using high visualization technique in R Studio. We are using two algorithms for analysis, hierarchical clustering for the purpose of clustering and Bagging CART for the purpose of classification.
+
